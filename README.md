@@ -12,8 +12,7 @@ This project demonstrates the full data pipeline:
 - Power BI  
 
 ## 📊 Dashboard Preview  
-![Dashboard]("D:\DATA ENGINEERING\data cleaning project\datacleaning dashboard.pbix")  
-
+![Dashboard Preview](https://github.com/rawdaabdelslam42/data-cleaning-sql-python-powerbi/blob/main/dashboard.png)
 ## 🚀 Key Features  
 - Data cleaning and preprocessing in Python.  
 - Writing and executing SQL queries on cleaned data.  
